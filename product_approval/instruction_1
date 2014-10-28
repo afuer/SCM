@@ -1,0 +1,13 @@
+LOCATION_ID field of proc_approval_route_delegation have no necessity. For framework, this field is inserted.
+
+route_id    designation_id  limit
+________    ______________  _____
+1           1               100 
+
+
+here designation table contains the designation along with location 
+
+designation   location
+___________   ________
+MD              LUMP        
+MD              Head Office  

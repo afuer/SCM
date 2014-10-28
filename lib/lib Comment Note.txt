@@ -1,0 +1,10 @@
+  Index 	Description
+	0		Field Name
+	1		Show in From
+	2		Required
+	3		Ajax Call
+	4		OnChange Field Name
+	5		Field Size
+	6		Input Type 
+	0		Field Name
+		

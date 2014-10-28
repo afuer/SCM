@@ -1,0 +1,15 @@
+<script src="nicEdit.js"></script>
+<script type="text/javascript">
+    bkLib.onDomLoaded(function() {
+        nicEditors.allTextAreas();
+    });
+</script>
+
+
+
+
+
+
+
+
+style="width: 800px; height: 450px; background-color: #fff !important;
